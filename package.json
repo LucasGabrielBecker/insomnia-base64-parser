@@ -1,0 +1,20 @@
+{
+  "name": "insomnia-base64-parser",
+  "description": "A package to parse images into base64 to be used in insomnia",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lucas Becker",
+    "url": "https://github.com/lucasgabrielbecker/insomnia-base64-parser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasgabrielbecker/insomnia-base64-parser"
+  },
+  "main": "index.js",
+  "insomnia": {
+    "name": "insomnia-base64-parser",
+    "description": "Encodes a file with base64"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
